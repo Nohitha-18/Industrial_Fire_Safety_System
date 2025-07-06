@@ -30,4 +30,4 @@ Simulated using TinkerCad (circuit image and Gerber file included)
 https://drive.google.com/file/d/1_wLzojCle5GJLURkUIxa1iCca6_d51m-/view
 
 ## Result  
-Successfully simulated and tested fire/gas detection with buzzer and fan output.
+Successfully simulated and tested fire/gas detection with buzzer and LED output.
